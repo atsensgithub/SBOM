@@ -1,0 +1,75 @@
+{
+  "files": [
+    {
+      "fileName": "./sbom-tool.exe",
+      "SPDXID": "SPDXRef-File--sbom-tool.exe-F15A20034CD396867480D172DB6FDAF4C3AEF2D8",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e83666e28366a7229263593c8e68821e29bc065557b86a8fac1c8142a5ff69c0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "f15a20034cd396867480d172db6fdaf4c3aef2d8"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "AT-Report",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "e5e2455b8952823a0407bfa28e3d3cd28f96e452"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.3.03.09",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/ATsens/spdx.org/AT-Report@1.3.03.09?tag_id=cbc9b18d-152c-4f48-abf8-1c4d8cfb5b19"
+        }
+      ],
+      "supplier": "Organization: ATsens",
+      "hasFiles": [
+        "SPDXRef-File--sbom-tool.exe-F15A20034CD396867480D172DB6FDAF4C3AEF2D8"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "AT-Report 1.3.03.09",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-2.2.2-2ab7fc7d-c393-4924-89d4-e8476f159f4d/AT-Report/1.3.03.09/OUv3bq18zkmyjeRKNi4jog",
+  "creationInfo": {
+    "created": "2024-01-11T08:37:24Z",
+    "creators": [
+      "Organization: ATsens",
+      "Tool: Microsoft.SBOMTool-2.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

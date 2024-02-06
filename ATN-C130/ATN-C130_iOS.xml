@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bom xmlns="http://cyclonedx.org/schema/bom/1.4" version="1" serialNumber="urn:uuid:0d22a2c3-ae2c-4397-b600-938675744033">
+  <metadata>
+    <timestamp>2024-02-05T08:08:15Z</timestamp>
+    <tools>
+      <tool>
+        <vendor>CycloneDX</vendor>
+        <name>cyclonedx-cocoapods</name>
+        <version>1.2.0</version>
+      </tool>
+    </tools>
+    <component type="library">
+      <name>AT-Note_iOS</name>
+      <version>1.3.6</version>
+    </component>
+  </metadata>
+  <components>
+    <component type="library">
+      <author>Mattt Thompson &lt;m@mattt.me&gt;</author>
+      <publisher>Mattt Thompson &lt;m@mattt.me&gt;</publisher>
+      <name>AFNetworking</name>
+      <version>4.0.1</version>
+      <description><![CDATA[A delightful networking framework for Apple platforms.]]></description>
+      <hashes>
+        <hash alg="SHA-1">3bd23d814e976cd148d7d44c3ab78017b744cd58</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+      </licenses>
+      <purl>pkg:cocoapods/AFNetworking@4.0.1</purl>
+      <bomRef>pkg:cocoapods/AFNetworking@4.0.1</bomRef>
+      <externalReferences>
+        <reference type="website">
+          <url>https://github.com/AFNetworking/AFNetworking</url>
+        </reference>
+      </externalReferences>
+    </component>
+    <component type="library">
+      <author>Mattt Thompson &lt;m@mattt.me&gt;</author>
+      <publisher>Mattt Thompson &lt;m@mattt.me&gt;</publisher>
+      <name>AFNetworking/NSURLSession</name>
+      <version>4.0.1</version>
+      <description><![CDATA[A delightful networking framework for Apple platforms.]]></description>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+      </licenses>
+      <purl>pkg:cocoapods/AFNetworking@4.0.1#NSURLSession</purl>
+      <bomRef>pkg:cocoapods/AFNetworking@4.0.1#NSURLSession</bomRef>
+      <externalReferences>
+        <reference type="website">
+          <url>https://github.com/AFNetworking/AFNetworking</url>
+        </reference>
+      </externalReferences>
+    </component>
+    <component type="library">
+      <author>Mattt Thompson &lt;m@mattt.me&gt;</author>
+      <publisher>Mattt Thompson &lt;m@mattt.me&gt;</publisher>
+      <name>AFNetworking/Reachability</name>
+      <version>4.0.1</version>
+      <description><![CDATA[A delightful networking framework for Apple platforms.]]></description>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+      </licenses>
+      <purl>pkg:cocoapods/AFNetworking@4.0.1#Reachability</purl>
+      <bomRef>pkg:cocoapods/AFNetworking@4.0.1#Reachability</bomRef>
+      <externalReferences>
+        <reference type="website">
+          <url>https://github.com/AFNetworking/AFNetworking</url>
+        </reference>
+      </externalReferences>
+    </component>
+    <component type="library">
+      <author>Mattt Thompson &lt;m@mattt.me&gt;</author>
+      <publisher>Mattt Thompson &lt;m@mattt.me&gt;</publisher>
+      <name>AFNetworking/Security</name>
+      <version>4.0.1</version>
+      <description><![CDATA[A delightful networking framework for Apple platforms.]]></description>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+      </licenses>
+      <purl>pkg:cocoapods/AFNetworking@4.0.1#Security</purl>
+      <bomRef>pkg:cocoapods/AFNetworking@4.0.1#Security</bomRef>
+      <externalReferences>
+        <reference type="website">
+          <url>https://github.com/AFNetworking/AFNetworking</url>
+        </reference>
+      </externalReferences>
+    </component>
+    <component type="library">
+      <author>Mattt Thompson &lt;m@mattt.me&gt;</author>
+      <publisher>Mattt Thompson &lt;m@mattt.me&gt;</publisher>
+      <name>AFNetworking/Serialization</name>
+      <version>4.0.1</version>
+      <description><![CDATA[A delightful networking framework for Apple platforms.]]></description>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+      </licenses>
+      <purl>pkg:cocoapods/AFNetworking@4.0.1#Serialization</purl>
+      <bomRef>pkg:cocoapods/AFNetworking@4.0.1#Serialization</bomRef>
+      <externalReferences>
+        <reference type="website">
+          <url>https://github.com/AFNetworking/AFNetworking</url>
+        </reference>
+      </externalReferences>
+    </component>
+    <component type="library">
+      <author>Mattt Thompson &lt;m@mattt.me&gt;</author>
+      <publisher>Mattt Thompson &lt;m@mattt.me&gt;</publisher>
+      <name>AFNetworking/UIKit</name>
+      <version>4.0.1</version>
+      <description><![CDATA[A delightful networking framework for Apple platforms.]]></description>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+      </licenses>
+      <purl>pkg:cocoapods/AFNetworking@4.0.1#UIKit</purl>
+      <bomRef>pkg:cocoapods/AFNetworking@4.0.1#UIKit</bomRef>
+      <externalReferences>
+        <reference type="website">
+          <url>https://github.com/AFNetworking/AFNetworking</url>
+        </reference>
+      </externalReferences>
+    </component>
+    <component type="library">
+      <author>Wenchao Ding &lt;f33chobits@gmail.com&gt;</author>
+      <publisher>Wenchao Ding &lt;f33chobits@gmail.com&gt;</publisher>
+      <name>FSCalendar</name>
+      <version>2.8.4</version>
+      <description><![CDATA[A superiorly awesome iOS7+ calendar control, compatible with Objective-C and Swift.]]></description>
+      <hashes>
+        <hash alg="SHA-1">2d1d0d9398f12d439f55c1fe0f01525b151b8260</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+      </licenses>
+      <purl>pkg:cocoapods/FSCalendar@2.8.4</purl>
+      <bomRef>pkg:cocoapods/FSCalendar@2.8.4</bomRef>
+      <externalReferences>
+        <reference type="website">
+          <url>https://github.com/WenchaoD/FSCalendar</url>
+        </reference>
+      </externalReferences>
+    </component>
+    <component type="library">
+      <author>Grigorii Lutkov &lt;friend.lga@gmail.com&gt;</author>
+      <publisher>Grigorii Lutkov &lt;friend.lga@gmail.com&gt;</publisher>
+      <name>LGSideMenuController</name>
+      <version>2.3.0</version>
+      <description><![CDATA[iOS view controller, shows left and right views by pressing button or gesture]]></description>
+      <hashes>
+        <hash alg="SHA-1">330643f700bce9783a153660123de7cb64b5aa78</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+      </licenses>
+      <purl>pkg:cocoapods/LGSideMenuController@2.3.0</purl>
+      <bomRef>pkg:cocoapods/LGSideMenuController@2.3.0</bomRef>
+      <externalReferences>
+        <reference type="website">
+          <url>https://github.com/Friend-LGA/LGSideMenuController</url>
+        </reference>
+      </externalReferences>
+    </component>
+    <component type="library">
+      <author>tany &lt;122074809@qq.com&gt;</author>
+      <publisher>tany &lt;122074809@qq.com&gt;</publisher>
+      <name>TYCyclePagerView</name>
+      <version>1.2.0</version>
+      <description><![CDATA[a simple and usefull cycle pager view ,and auto scroll banner view,include pageControl for iOS,support Objective-C and swift]]></description>
+      <hashes>
+        <hash alg="SHA-1">2b051dade0615c70784aa34f40c646feeddb7344</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+      </licenses>
+      <purl>pkg:cocoapods/TYCyclePagerView@1.2.0</purl>
+      <bomRef>pkg:cocoapods/TYCyclePagerView@1.2.0</bomRef>
+      <externalReferences>
+        <reference type="website">
+          <url>https://github.com/12207480/TYCyclePagerView</url>
+        </reference>
+      </externalReferences>
+    </component>
+    <component type="library">
+      <author>Charles Scalesse &lt;scalessec@gmail.com&gt;</author>
+      <publisher>Charles Scalesse &lt;scalessec@gmail.com&gt;</publisher>
+      <name>Toast</name>
+      <version>4.1.0</version>
+      <description><![CDATA[A UIView category that adds Android-style toast notifications to iOS.]]></description>
+      <hashes>
+        <hash alg="SHA-1">ec33c32b8688982cecc6348adeae667c1b9938da</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <id>MIT</id>
+        </license>
+      </licenses>
+      <purl>pkg:cocoapods/Toast@4.1.0</purl>
+      <bomRef>pkg:cocoapods/Toast@4.1.0</bomRef>
+      <externalReferences>
+        <reference type="website">
+          <url>https://github.com/scalessec/Toast</url>
+        </reference>
+      </externalReferences>
+    </component>
+    <component type="library">
+      <author>zxingify</author>
+      <publisher>zxingify</publisher>
+      <name>ZXingObjC</name>
+      <version>3.6.9</version>
+      <description><![CDATA[An Objective-C Port of the ZXing barcode framework.]]></description>
+      <hashes>
+        <hash alg="SHA-1">8898711ab495761b2dbbdec76d90164a6d7e14c5</hash>
+      </hashes>
+      <licenses>
+        <license>
+          <name>Apache License 2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:cocoapods/ZXingObjC@3.6.9</purl>
+      <bomRef>pkg:cocoapods/ZXingObjC@3.6.9</bomRef>
+      <externalReferences>
+        <reference type="website">
+          <url>https://github.com/zxingify/zxingify-objc</url>
+        </reference>
+      </externalReferences>
+    </component>
+    <component type="library">
+      <author>zxingify</author>
+      <publisher>zxingify</publisher>
+      <name>ZXingObjC/All</name>
+      <version>3.6.9</version>
+      <description><![CDATA[An Objective-C Port of the ZXing barcode framework.]]></description>
+      <licenses>
+        <license>
+          <name>Apache License 2.0</name>
+        </license>
+      </licenses>
+      <purl>pkg:cocoapods/ZXingObjC@3.6.9#All</purl>
+      <bomRef>pkg:cocoapods/ZXingObjC@3.6.9#All</bomRef>
+      <externalReferences>
+        <reference type="website">
+          <url>https://github.com/zxingify/zxingify-objc</url>
+        </reference>
+      </externalReferences>
+    </component>
+  </components>
+  <dependencies>
+    <dependency ref="pkg:cocoapods/AFNetworking@4.0.1">
+      <dependency ref="pkg:cocoapods/AFNetworking@4.0.1#NSURLSession"/>
+      <dependency ref="pkg:cocoapods/AFNetworking@4.0.1#Reachability"/>
+      <dependency ref="pkg:cocoapods/AFNetworking@4.0.1#Security"/>
+      <dependency ref="pkg:cocoapods/AFNetworking@4.0.1#Serialization"/>
+      <dependency ref="pkg:cocoapods/AFNetworking@4.0.1#UIKit"/>
+    </dependency>
+    <dependency ref="pkg:cocoapods/AFNetworking@4.0.1#NSURLSession">
+      <dependency ref="pkg:cocoapods/AFNetworking@4.0.1#Reachability"/>
+      <dependency ref="pkg:cocoapods/AFNetworking@4.0.1#Security"/>
+      <dependency ref="pkg:cocoapods/AFNetworking@4.0.1#Serialization"/>
+    </dependency>
+    <dependency ref="pkg:cocoapods/AFNetworking@4.0.1#Reachability"/>
+    <dependency ref="pkg:cocoapods/AFNetworking@4.0.1#Security"/>
+    <dependency ref="pkg:cocoapods/AFNetworking@4.0.1#Serialization"/>
+    <dependency ref="pkg:cocoapods/AFNetworking@4.0.1#UIKit">
+      <dependency ref="pkg:cocoapods/AFNetworking@4.0.1#NSURLSession"/>
+    </dependency>
+    <dependency ref="pkg:cocoapods/FSCalendar@2.8.4"/>
+    <dependency ref="pkg:cocoapods/LGSideMenuController@2.3.0"/>
+    <dependency ref="pkg:cocoapods/TYCyclePagerView@1.2.0"/>
+    <dependency ref="pkg:cocoapods/Toast@4.1.0"/>
+    <dependency ref="pkg:cocoapods/ZXingObjC@3.6.9">
+      <dependency ref="pkg:cocoapods/ZXingObjC@3.6.9#All"/>
+    </dependency>
+    <dependency ref="pkg:cocoapods/ZXingObjC@3.6.9#All"/>
+  </dependencies>
+</bom>

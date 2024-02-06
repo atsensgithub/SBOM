@@ -1,0 +1,53 @@
+{
+  "files": [],
+  "packages": [
+    {
+      "name": "AT-Trans",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.00.00",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE-MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:swid/ATsens/spdx.org/AT-Trans@1.00.00?tag_id=6fb1476c-7c14-4d60-ac74-e7f21079f68d"
+        }
+      ],
+      "supplier": "Organization: ATsens",
+      "hasFiles": []
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "AT-Trans 1.00.00",
+  "documentNamespace": "https://spdx.org/spdxdocs/sbom-tool-2.2.2-fc124703-f2b1-4e41-be5d-c0b50cd3de87/AT-Trans/1.00.00/lHML6a3PuEW6I676-Okumg",
+  "creationInfo": {
+    "created": "2024-02-06T07:52:20Z",
+    "creators": [
+      "Organization: ATsens",
+      "Tool: Microsoft.SBOMTool-2.2.2"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}
